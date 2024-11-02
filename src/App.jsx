@@ -90,6 +90,7 @@ const App = () => {
                     <input type="password" placeholder="*****" value={password} onChange={handelPasswordChange} />
 
                     <button>Send</button>
+                    <button>hero</button>
                 </form>
             )}
         </div>
